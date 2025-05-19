@@ -7,10 +7,10 @@
 
 - Lagerbestand-Anzeige
 
--Bestandswarnung (z. B. „unter Mindestmenge“)
+- Bestandswarnung (z. B. „unter Mindestmenge“)
 
--Bestellungen speichern (Datum, Lieferant, Produkte)
+- Bestellungen speichern (Datum, Lieferant, Produkte)
 
--CSV-Export aller Produkte
+- CSV-Export aller Produkte
 
--GUI mit Tkinter 
+- GUI mit Tkinter 
